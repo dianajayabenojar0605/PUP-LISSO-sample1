@@ -1,10 +1,10 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
+title,PUP LISSO sample1,
+creator,PUP LISSO Diana,
+date,February 20,
+description,LIS Student Org,
 subject,Subjects,true
-location,Location
+location,PUP Manila
 latitude,Latitude
 longitude,Longitude
 source,Source
